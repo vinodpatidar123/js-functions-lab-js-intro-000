@@ -18,4 +18,4 @@ function holidayCountdown(days,holiday){
 happyHolidayTo();
 happyHolidaysTo("Vinod");
 happyHolidayTo("Holi","Vinod");
-holidayCountdown(1,"Holi");
+holidayCountdown(20,"Mother's");
